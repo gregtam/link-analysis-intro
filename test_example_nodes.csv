@@ -1,0 +1,8 @@
+Id,Label,Node Type
+a_1,a_1,Non-Fraud
+a_2,a_2,Fraud
+a_3,a_3,Fraud
+a_4,a_4,Non-Fraud
+a_5,a_5,Non-Fraud
+d_1,d_1,Smart ID
+d_2,d_2,Smart ID
